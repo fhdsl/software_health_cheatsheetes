@@ -2,8 +2,8 @@
 
 These cheatsheets are from the manuscript: `Best practices to evaluate the impact of biomedical research software - Metric collection beyond citations`
 
-- [Scientific tools and resources](scientific_tools_and_resources.pdf)
-- [Example Metrics](example_metrics.pdf)
-- [Needs Goals, and Benefits of Software Evals](needs_goals_and_benefits_of_software_evals.pdf)
-- [Software Infrastructure](software_infrastructure.pdf)
-- [Distorted Metrics Table](distorted_metrics.pdf)
+- [Scientific tools and resources](scientific_tools_and_resources.pdf) - Scientific Tools and Resources Evaluated. Here we show the variety among the 44 ITCR and CTD2 scientific research tools/resources evaluated for various characteristics by manual inspection for infrastructure used to support software evaluation metrics beyond software paper citations.
+- [Example Metrics](example_metrics.pdf) - Example Metrics. A variety of metrics can be used to attempt to interpret to usefulness, reliability, and uptake by the community and more. Here we describe metrics used by the authors of the paper. See [Lenarduzzi et al., 2020, Eisty et al., 2018, Thelwall and Kousha, 2016] for more information about metrics used by others.
+- [Needs Goals, and Benefits of Software Evals](needs_goals_and_benefits_of_software_evals.pdf) - Needs, Goals, and Benefits of Software Evaluation. Software evaluation can support identification for tool optimization and development and can demonstrate tool value to others.
+- [Software Infrastructure](software_infrastructure.pdf) - Software infrastructure can enable the capture of valuable metrics for evaluating engagement and impact. Note that there are other helpful tools to enable metric collection. These are simply examples based on the experience of software developers funded by ITCR, for example the developers of QIIME 2 [Bolyen et al., 2019] found metrics from workshops, forums, and other forms of outreach valuable for evaluating community uptake and user experience.
+- [Distorted Metrics Table](distorted_metrics.pdf) - Distorted Metrics. Here we provide more in-depth information about metric distortion themes identified evaluating tools in Bioconductor (which is ITCR-funded). GEO = Gene Expression Omnibus
